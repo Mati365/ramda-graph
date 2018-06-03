@@ -1,8 +1,3 @@
-# ramda-graph &middot; [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-Simple functional graph implementation in Ramda.js
-
-### Example
-```js
 const R = require('ramda');
 const G = require('../dist/ramda-graph');
 
@@ -77,8 +72,3 @@ G.updateEdge(
 G.findVertex('Warsaw', CITY_GRAPH);
 
 console.log(CITY_GRAPH);
-/*
- * Output:
- * {undirected: true, edges: [..], vertices: [..]}
- */
-```

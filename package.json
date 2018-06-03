@@ -1,0 +1,34 @@
+{
+  "name": "ramda-graph",
+  "version": "1.0.0",
+  "description": "Simple functional graph implementation in Ramda.js",
+  "main": "dist/ramda-graph.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "ramda": "^0.25.0"
+  },
+  "devDependencies": {
+    "rollup": "^0.59.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mati365/ramda-graph.git"
+  },
+  "keywords": [
+    "fp",
+    "ramda",
+    "graph",
+    "javascript"
+  ],
+  "author": "Mateusz Bagiński <cziken58@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mati365/ramda-graph/issues"
+  },
+  "homepage": "https://github.com/Mati365/ramda-graph#readme"
+}
