@@ -1,4 +1,4 @@
-# ramda-graph &middot; [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/ramda-graph.svg)](https://badge.fury.io/js/ramda-graph)
+# ramda-graph &middot; [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/ramda-graph.svg)](https://badge.fury.io/js/ramda-graph) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 Simple functional graph implementation in Ramda.js
 
 ## Installation
